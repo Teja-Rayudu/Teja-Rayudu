@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teja-Rayudu
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on great people
+- 💞️ I’m looking to collaborate with great people
 - 📫 How to reach me tejarayudu0@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies to write lyrics.
