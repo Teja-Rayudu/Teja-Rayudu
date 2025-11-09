@@ -66,4 +66,6 @@ Enthusiastic technophile from Andhra Pradesh, always exploring new trends and bu
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/tejarayudu0)
+
 
