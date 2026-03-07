@@ -12,7 +12,7 @@ Enthusiastic technophile from Andhra Pradesh, always exploring new trends and bu
 - **Course Work:** Data Structures & Algorithms, OOP, AI/ML, Deep Learning, Computer Networks, OS  
 - **Cloud Platforms:** AWS (Certified Cloud Practitioner), Microsoft Azure AI Fundamentals  
 - **Tools:** VS Code, MySQL, Git, Microsoft Office
-- **Coding Platforms:** LeetCode (200+ DSA problems), HackerRank, CodeChef, InterviewBit
+- **Coding Platforms:** LeetCode (250+ DSA problems), HackerRank, CodeChef, InterviewBit
 
 ---
 
