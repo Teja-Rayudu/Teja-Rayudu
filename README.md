@@ -27,7 +27,7 @@
 const teja: Developer = {
   name:       "Yamalapati Teja Rayudu",
   location:   "Porumamilla, Andhra Pradesh 🇮🇳",
-  education:  "BTech CSE @ VIT-AP University (CGPA: 8.74 / 10)",
+  education:  "BTech CSE @ VIT-AP University (CGPA: 8.83 / 10)",
   passions:   ["Cloud Engineering", "AI/ML", "Full-Stack Dev", "Competitive Programming"],
   openTo:     ["Software Engineer", "Cloud Engineer", "AI/ML Engineer"],
   languages:  ["Telugu 🗣️", "Hindi", "English (Professional)", "Spanish (Elementary)"],
@@ -60,7 +60,7 @@ const teja: Developer = {
 
 | 🧩 DSA Problems | 🎓 CGPA | 📜 Certifications | 🚀 Major Projects |
 |:-:|:-:|:-:|:-:|
-| **250+ LeetCode** | **8.74 / 10** | **5 Certified** | **3 Featured** |
+| **250+ LeetCode** | **8.83 / 10** | **5 Certified** | **3 Featured** |
 
 </div>
 
